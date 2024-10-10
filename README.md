@@ -11,3 +11,5 @@ I am semi-fluent in Java, Lua, C++ and ASM
 ### Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaming-With-Portals&theme=tokyonight&icons=true&hide=ruby&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://komarev.com/ghpvc/?username=Gaming-With-Portals&color=brightgreen" alt="watching_count" />
+
