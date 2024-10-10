@@ -1,5 +1,5 @@
 # I'm Gaming With Portals
-However, that's a mouthful, so GWP or Portals is typically what others call me, feel free to do the same!
+However, that's a mouthful, so "GWP" or "Portals" is typically what others call me, feel free to do the same!
 
 ### About me:
 I am a software engineer with a big focus on WinUI and WPF applications, as well as game development with my own custom 2D engine: [XE]ngine
