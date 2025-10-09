@@ -5,8 +5,11 @@ However, that's a mouthful, so "GWP" or "Portals" is typically what others call 
 I am a software engineer with a big focus on desktop applications and game tooling, either with Windows Forms with C#, Godot with GDScript, or ImGui with C++, as well as game development with my own custom 2D engine: [XE]ngine
 
 ### Languages:
-I consider myself fully fluent in Python, C#, C++ and GDScript,
-I am semi-fluent in Java, Lua and ASM
+Fluent:
+Python, C#, C++17, GDScript
+
+Learning/Semi-Fluent:
+Java, Lua, Ruby, Go
 
 ### Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaming-With-Portals&theme=tokyonight&icons=true&hide=ruby,shell,gap&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
