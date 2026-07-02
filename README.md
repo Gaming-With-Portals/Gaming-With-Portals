@@ -6,10 +6,10 @@ I am a software engineer with a big focus on desktop applications and game tooli
 
 ### Languages:
 Fluent:
-Python, C#, C++17, GDScript
+Python, C#, C++17, GDScript, Java
 
 Learning/Semi-Fluent:
-Java, Lua, Ruby, Go
+Lua, Rust
 
 ### Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaming-With-Portals&theme=tokyonight&icons=true&hide=ruby,shell,gap&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
