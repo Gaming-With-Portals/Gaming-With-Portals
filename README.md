@@ -12,7 +12,7 @@ Learning/Semi-Fluent:
 Lua, Rust
 
 ### Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaming-With-Portals&theme=tokyonight&icons=true&hide=ruby,shell,gap&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Gaming-With-Portals&theme=tokyonight&icons=true&hide=ruby,shell,gap&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Greatest Projects:
 ### [CruelerThanDAT](https://github.com/Gaming-With-Portals/CruelerThanDAT)
